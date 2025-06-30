@@ -1,6 +1,6 @@
 # Resela 🛒
 
-**Resela** is a smart and scalable eCommerce platform built for resellers. It offers a robust, user-friendly system for listing, managing, and selling digital or physical products — all powered by React, Firebase, Zustand, and more.
+[**Resela** ](https://resela.netlify.app) is a smart and scalable eCommerce platform built for resellers. It offers a robust, user-friendly system for listing, managing, and selling digital or physical products — all powered by React, Firebase, Zustand, and more.
 
 ![Resela Banner](./show7.png) <!-- Optional banner -->
 
