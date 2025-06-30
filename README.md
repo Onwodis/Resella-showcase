@@ -2,7 +2,7 @@
 
 **Resela** is a smart and scalable eCommerce platform built for resellers. It offers a robust, user-friendly system for listing, managing, and selling digital or physical products — all powered by React, Firebase, Zustand, and more.
 
-![Resela Banner](./public/images/banner.png) <!-- Optional banner -->
+![Resela Banner](./show7.png) <!-- Optional banner -->
 
 ## ✨ Features
 
